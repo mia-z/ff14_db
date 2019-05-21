@@ -1,0 +1,19 @@
+{
+  "name": "dbdler",
+  "version": "1.0.0",
+  "description": "downloads item db for ff14",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mia-z/ff14_db.git"
+  },
+  "author": "miaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mia-z/ff14_db/issues"
+  },
+  "homepage": "https://github.com/mia-z/ff14_db#readme"
+}
