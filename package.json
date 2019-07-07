@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mia-z/ff14_db/issues"
   },
-  "homepage": "https://github.com/mia-z/ff14_db#readme"
+  "homepage": "https://github.com/mia-z/ff14_db#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "node-fetch": "^2.6.0"
+  }
 }
